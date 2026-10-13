@@ -1,0 +1,6 @@
+{
+  "name": "Kulturatlas Deutschland",
+  "description": "Eine interaktive Reise durch die Kultur, Bundesländer, Traditionen, Fakten und sprachlichen Besonderheiten Deutschlands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
